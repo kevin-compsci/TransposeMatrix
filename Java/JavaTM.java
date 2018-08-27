@@ -13,7 +13,7 @@ import java.io.*;
 import java.util.*;
 
 //class
-class JavaShell {
+class JavaTM {
 	//Global Declarations
 
 	//main driver
