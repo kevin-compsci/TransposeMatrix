@@ -19,7 +19,12 @@ class JavaTM {
 	//main driver
 	public static void main(String[] args) {
 		//local Declarations
-		System.out.println("HelloWorld");
+	
+		//initialize 2D array
+
+		//call transpose
+
+		//output result
 	}
 
 	//transpose will take a 2D array and output a transposed matrix
