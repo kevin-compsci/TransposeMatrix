@@ -5,7 +5,7 @@ Basic Java program to transpose a given matrix.
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
 	2.) type in "javac *.java" to compile java files
-	3.) type in "java JavaShell"
+	3.) type in "java JavaTM"
 */
 
 //imports
@@ -22,7 +22,7 @@ class JavaTM {
 		System.out.println("HelloWorld");
 	}
 
-	//function definitions below
+	//transpose will take a 2D array and output a transposed matrix
     public int[][] transpose(int[][] A) {
         //local declarations
         int i = 0, j = 0, colLen = A[0].length, rowLen = A.length;
